@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/sizeReducer/static/css/main.0ca712f2.css",
-    "main.js": "/sizeReducer/static/js/main.0aaa642f.js",
+    "main.js": "/sizeReducer/static/js/main.c4d102ac.js",
     "index.html": "/sizeReducer/index.html",
     "main.0ca712f2.css.map": "/sizeReducer/static/css/main.0ca712f2.css.map",
-    "main.0aaa642f.js.map": "/sizeReducer/static/js/main.0aaa642f.js.map"
+    "main.c4d102ac.js.map": "/sizeReducer/static/js/main.c4d102ac.js.map"
   },
   "entrypoints": [
     "static/css/main.0ca712f2.css",
-    "static/js/main.0aaa642f.js"
+    "static/js/main.c4d102ac.js"
   ]
 }
