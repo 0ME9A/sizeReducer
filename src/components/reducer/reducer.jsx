@@ -71,9 +71,6 @@ function Reducer(props) {
 
 
 
-
-
-
     return (
         <div className='sections-container container'>
             <section className='settings-section'>

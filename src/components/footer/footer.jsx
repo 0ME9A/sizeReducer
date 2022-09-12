@@ -23,7 +23,7 @@ function Footer(props) {
                     </a>
                 </div>
                 <p>We don not store any uploaded data anywhere.</p>
-                <span>&copy; Copyright 2022 sizeReducer |<Link to='/terms-privacy' className='btn btn-link'>Terms and Privacy</Link></span>
+                <span>&copy; Copyright 2022 sizeReducer |<Link to='/sizeReducer/terms-privacy' className='btn btn-link'>Terms and Privacy</Link></span>
             </footer>
         </div>
     );

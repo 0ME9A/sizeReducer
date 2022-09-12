@@ -1,6 +1,6 @@
 import React from 'react';
-import {Link} from 'react-router-dom';
-import {FaArrowLeft} from 'react-icons/fa'
+import { Link } from 'react-router-dom';
+import { FaArrowLeft } from 'react-icons/fa'
 import './tp.sass'
 
 
@@ -58,7 +58,7 @@ function Tp(props) {
                         Submitted data and the generated files will not be shared or accessed by our company.
                     </li>
                     <li>
-                        In order to improve the quality of the sizereducer.com service, you can give us a feedback at <a href="mailto:heyome9a@gmail.com">heyome9a@gmail.com</a> 
+                        In order to improve the quality of the sizereducer.com service, you can give us a feedback at <a href="mailto:heyome9a@gmail.com">heyome9a@gmail.com</a>
                     </li>
                     <li>
                         Google collects data and uses cookies for ad personalization and measurement for this site. Learn how Google collects and uses data. You can turn off ad personalization at any time in your Google account settings. Also, we use cookies for statistical purposes. By using this site, you consent to our use of cookies.
@@ -69,7 +69,10 @@ function Tp(props) {
                     Hydrabad, In <br />
                     India
                 </pre>
-                <Link to="/" className='btn'><FaArrowLeft/> Home</Link>
+                <Link to="/sizeReducer" className='btn'>
+                    <FaArrowLeft />
+                    Home
+                </Link>
             </div>
         </div>
     );

@@ -5,7 +5,6 @@ function Error(props) {
     return (
         <div className='error-container container'>
             <div className="error">
-
                 <h1>Error occurred!</h1>
                 <h2>Incorrect file type given or some internal error happened.</h2>
                 <h2 id='error-title'>Troblshoot</h2>
