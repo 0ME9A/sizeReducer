@@ -1,0 +1,46 @@
+.nav-container
+    padding: 0 50px !important
+    border-radius: 0
+    overflow: auto
+    background-image: url('https://images.unsplash.com/photo-1500829243541-74b677fecc30?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1476&q=80')
+    background-repeat: no-repeat
+    background-size: cover
+    position: relative
+    .img-filter
+        width: 100%
+        height: 100%
+        position: absolute
+        top: 0
+        left: 0
+        background-image: radial-gradient(rgba(0, 0, 0, .3), black)
+        z-index: 1
+    nav
+        max-width: 1110px
+        width: 100%
+        display: flex
+        flex-direction: row !important
+        justify-content: space-between
+        padding-top: 1.5rem
+        position: relative
+        z-index: 5
+        span
+            color: grey
+        a
+            color: white
+            text-decoration: none
+            display: flex
+            align-items: center
+            justify-content: center
+            gap: 0.5rem
+        .btn
+            background: black
+            &:hover
+                border-color: white
+
+    #brand
+        font-size: 3.5rem
+        padding: 3rem 1rem
+        color: white
+        position: relative
+        z-index: 2
+        

@@ -1,6 +1,8 @@
 import React, { useState } from 'react';
 import Upload from '../components/upload/upload';
 import Reducer from '../components/reducer/reducer';
+import Nav from '../components/nav/nav';
+import Footer from '../components/footer/footer';
 // import Absolue from '../components/absolute/absolute';
 // import {FaGithubAlt} from 'react-icons/fa'
 

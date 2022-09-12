@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../imgCompress"
+		},
+		{
+			"path": "../../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "imgCompress"
+	}
+}
