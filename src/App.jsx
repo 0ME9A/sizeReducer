@@ -12,7 +12,7 @@ function App() {
       <Nav />
       <Routes>
         <Route path="/sizeReducer" element={<Home />} />
-        <Route path="/sizeReducer/terms-privacy" element={<Tp />} />
+        <Route path="/sizeReducer/terms-privacy/" element={<Tp />} />
       </Routes>
       <Footer />
     </div>
