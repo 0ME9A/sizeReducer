@@ -32,7 +32,7 @@ sizeReducer offers a range of features:
 
 ### Screenshots
 
-![Screenshot](https://raw.githubusercontent.com/0ME9A/screenshots/main/sizeReducer.png)
+![Screenshot](https://raw.githubusercontent.com/0ME9A/projects-asset/main/thumb/sizeReducer.png)
 
 ### Links
 
