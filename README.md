@@ -1,65 +1,115 @@
+# sizeReducer
 
-# sizeReducer 
+sizeReducer is an open-source web-based image compression tool designed to make image optimization easy. It supports the compression of JPG, JPEG, and PNG images and offers customizable dimensions. Feel free to contribute to this project and help us make it even better!
 
-This is a tool to compress jpg, jpeg and png images.
-
-## Table of contents
+## Table of Contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
+  - [Features](#features)
+  - [Screenshots](#screenshots)
   - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Useful resources](#useful-resources)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Built With](#built-with)
+- [Contributing](#contributing)
 - [Author](#author)
+- [License](#license)
 
 ## Overview
 
-### The challenge
+### Features
 
-Users should be able to:
+sizeReducer offers a range of features:
 
-- Select `jpg`, `jpeg` and  `png` files.
-- Able to change width and height.
-- Dwonload compressed image.
-- Display original and compressed file size.
-- Simple and clean design.
-- Show before and after image preview
+- Image compression for JPG, JPEG, and PNG files.
+- Customizable image width and height adjustment.
+- Download option for compressed images.
+- Display of both original and compressed file sizes.
+- A clean and intuitive user interface.
+- Side-by-side before-and-after image preview.
 
-### Screenshot
+### Screenshots
 
 ![Screenshot](https://raw.githubusercontent.com/0ME9A/screenshots/main/sizeReducer.png)
 
-
-
 ### Links
 
-- [Solution URL: ](https://github.com/0ME9A/sizeReducer/)
-- [Live Site URL:](https://0me9a.github.io/sizeReducer/)
+- [GitHub Repository](https://github.com/0ME9A/sizeReducer/)
+- [Live Demo](https://0me9a.github.io/sizeReducer/)
 
-## My process
+## Getting Started
 
-### Built with
+### Prerequisites
+
+Before you begin, ensure you have the following installed:
+
+- Node.js and npm (Node Package Manager)
+
+### Installation
+
+1. Clone the GitHub repository:
+
+   ```sh
+   git clone https://github.com/0ME9A/sizeReducer.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```sh
+   cd sizeReducer
+   ```
+
+3. Install the required dependencies:
+
+   ```sh
+   npm install
+   ```
+
+## Usage
+
+To use sizeReducer, follow these steps:
+
+1. Start the development server:
+
+   ```sh
+   npm start
+   ```
+
+2. Open your web browser and go to:
+
+   ```sh
+   http://localhost:3000
+   ```
+
+Now you can use sizeReducer to compress your images easily.
+
+## Built With
+
+sizeReducer is built with the following technologies:
 
 - Semantic HTML5 markup
-- Flexbox
+- Flexbox for responsive design
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Sass](https://sass-lang.com/) - For styles
+- [React](https://reactjs.org/) - JavaScript library for building user interfaces
+- [Sass](https://sass-lang.com/) - CSS preprocessor for styling
 
-### What I learned
-- Javascript input [type: file]
-- Javascript canvas
+## Contributing
 
+sizeReducer is an open-source project, and contributions are welcome! Here's how you can contribute:
 
-### Useful resources
-
-- [MDN](https://developer.mozilla.org/en-US/docs/Web/javascript) This helped me learning javascript input file handling and javascript canvas.
+1. Fork the repository.
+2. Create a new branch: `git checkout -b feature-name`
+3. Make your changes and commit them: `git commit -m 'Add some feature'`
+4. Push to the branch: `git push origin feature-name`
+5. Open a pull request.
 
 ## Author
 
-- Website - [OMEGA](https://ome9a.com)
-- Frontend Mentor - [@0me9a](https://www.frontendmentor.io/profile/0me9a)
-- Twitter - [@omega86735940](https://twitter.com/omega86735940)
+- Website: [OMEGA](https://ome9a.com)
+- Twitter: [@omega86735940](https://twitter.com/omegaStrikes)
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
