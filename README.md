@@ -108,7 +108,7 @@ sizeReducer is an open-source project, and contributions are welcome! Here's how
 ## Author
 
 - Website: [OMEGA](https://ome9a.com)
-- Twitter: [@omega86735940](https://twitter.com/omegaStrikes)
+- Twitter: [@omegaStrikes](https://twitter.com/omegaStrikes)
 
 ## License
 
