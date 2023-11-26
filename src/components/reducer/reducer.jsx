@@ -1,6 +1,8 @@
-import "./reducer.sass";
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
+
 import Error from "../error/error";
+
+import "./reducer.sass";
 
 function Reducer(props) {
   const [W, setW] = useState(0);

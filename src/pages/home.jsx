@@ -1,8 +1,9 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
+
 import Upload from '../components/upload/upload';
 import Reducer from '../components/reducer/reducer';
 
-function Home(props) {
+function Home() {
     const [fileToReducer, setFileToReducer] = useState(null)
     return (
         <>
